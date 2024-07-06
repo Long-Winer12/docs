@@ -46,15 +46,14 @@
       "url": "https://blog.jestersoftware.xyz"
     }
   ],
-  "navigation": [
-    {
-      "group": "Documentation",
-      "pages": [
-        "gettingstarted",
-        "faq",
-        "config",
-        "troubleshooting"
-      ]
+  "navigation": {
+      {
+        "group": "Documentation",
+        "pages": [
+          "starting",
+          "faq",
+          "config"
+          ]
     },
     {
       "group": "Plugins",
@@ -62,8 +61,7 @@
         "plugins/automod",
         "plugins/welcome"
       ]
-    }
-  ],
+    },
   "footerSocials": {
     "discord": "https://api.jestersoftware.xyz/bots",
     "x": "https://x.com/jestersoftware"
