@@ -46,12 +46,14 @@
       "url": "https://blog.jestersoftware.xyz"
     }
   ],
-  "navigation": {
-        "group": "Documentation",
-        "pages": [
-          "Getting Started"
-          ]
-    },
+  "navigation": [
+    {
+      "group": "Documentation",
+      "pages": [
+        "Getting Started"
+      ]
+    }
+  ],
   "footerSocials": {
     "discord": "https://api.jestersoftware.xyz/bots",
     "x": "https://x.com/jestersoftware"
