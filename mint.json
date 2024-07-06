@@ -8,11 +8,11 @@
   "favicon": "https://cdn.jestersoftware.xyz/assets/logo.png",
   "colors": {
     "primary": "#3E47C9",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "light": "#3E47C9",
+    "dark": "#3E47C9",
     "anchors": {
       "from": "#3E47C9",
-      "to": "#EA1C24"
+      "to": "#3E47C9"
     }
   },
   "topbarLinks": [
