@@ -15,6 +15,20 @@
       "to": "#3E47C9"
     }
   },
+  "tabs": [
+    {
+        "name": "API References",
+        "url": "api-references"
+    },
+    {
+        "name": "Content",
+        "url": "content"
+    },
+    {
+        "name": "Blog",
+        "url": "https://your-website.com/blog"
+    }
+],
   "topbarLinks": [
     {
       "name": "Website",
