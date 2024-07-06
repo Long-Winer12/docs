@@ -50,17 +50,8 @@
       {
         "group": "Documentation",
         "pages": [
-          "starting",
-          "faq",
-          "config"
+          "Getting Started"
           ]
-    },
-    {
-      "group": "Plugins",
-      "pages": [
-        "plugins/automod",
-        "plugins/welcome"
-      ]
     },
   "footerSocials": {
     "discord": "https://api.jestersoftware.xyz/bots",
