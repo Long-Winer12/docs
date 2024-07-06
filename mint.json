@@ -17,16 +17,12 @@
   },
   "tabs": [
     {
-        "name": "API References",
-        "url": "api-references"
+        "name": "Fighter Docs",
+        "url": "fighter"
     },
     {
-        "name": "Content",
-        "url": "content"
-    },
-    {
-        "name": "Blog",
-        "url": "https://your-website.com/blog"
+        "name": "oPenWorks",
+        "url": "openworks"
     }
 ],
   "topbarLinks": [
