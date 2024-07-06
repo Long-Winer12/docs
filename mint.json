@@ -50,10 +50,7 @@
     {
       "group": "Documentation",
       "pages": [
-        {
-          "name": "Getting Started",
-          "url": "/getting-started"
-        }
+        "Getting Started"
       ]
     }
   ],
