@@ -15,16 +15,6 @@
       "to": "#3E47C9"
     }
   },
-  "tabs": [
-    {
-        "name": "Fighter Docs",
-        "url": "fighter"
-    },
-    {
-        "name": "oPenWorks",
-        "url": "openworks"
-    }
-],
   "topbarLinks": [
     {
       "name": "Website",
@@ -36,7 +26,7 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "Discord Support",
+    "name": "Support Server",
     "url": "https://api.jestersoftware.xyz/bots"
   },
   "anchors": [
